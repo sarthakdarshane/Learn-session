@@ -1,7 +1,5 @@
-
----
-
 # Learn-session
 
----
-- chal bhai 
+```
+git status
+```
